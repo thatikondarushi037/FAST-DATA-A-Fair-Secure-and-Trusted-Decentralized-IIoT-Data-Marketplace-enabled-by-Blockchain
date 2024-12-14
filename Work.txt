@@ -1,0 +1,32 @@
+FAST DATA A Fair, Secure and Trusted Decentralized IIoT Data Marketplace enabled by Blockchain
+
+
+IEEE Internet of Things,Volume:10,Issue:4,Issue Date:15.February.2023
+
+
+Did	
+DDate	
+Country	
+City	
+Killed	
+Injured	
+Description
+Country_hashcode
+City_hashcode
+
+
+
+CREATE TABLE `datasets` (
+  `id` int(11) NOT NULL auto_increment,
+  
+Did text,	
+DDate text,	
+Country	text,
+City text,	
+Killed text,	
+Injured	 text,
+Description text,
+Country_hashcode text,
+City_hashcode text,
+PRIMARY KEY  (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;

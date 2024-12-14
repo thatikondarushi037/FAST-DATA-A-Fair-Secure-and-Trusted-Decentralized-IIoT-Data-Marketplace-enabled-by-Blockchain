@@ -1,0 +1,1 @@
+Entity name is substances Type is Liquid drinks and Instances is Coffee and it is Very Taste to drink  
